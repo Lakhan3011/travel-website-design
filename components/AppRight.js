@@ -5,7 +5,7 @@ function AppRight() {
   return (
     <div className="p-10">
       <header className="flex justify-between p-10">
-        <AppsIcon className="mt-2 " />
+        <AppsIcon className="mt-2" />
         <div className="flex items-center">
           <p className="link">Stories</p>
           <p className="link">Gallery</p>
